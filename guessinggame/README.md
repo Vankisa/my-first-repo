@@ -1,3 +1,5 @@
 ## The Guessing Game Script
-<p>Last ran on: ast_run_date</p>
-<p>Number of lines in guessinggame.sh: um_lines</p>
+Last ran on: 
+Thu Sep 14 11:42:37 CEST 2017
+Number of lines in guessinggame.sh:  
+33
